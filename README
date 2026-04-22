@@ -1,1 +1,42 @@
+ Restaurant Order & Menu Simulation System
+
+📌 Project Description
+The Restaurant Order & Menu Simulation System is a console-based application developed using Core Java. This system is designed to simulate real-world restaurant operations such as menu management, order processing, and billing.
+
+The application follows Object-Oriented Programming (OOP) principles like encapsulation, inheritance, polymorphism, and abstraction to ensure modular and maintainable code.# 🎯 Objectives
+- To develop a menu-driven console application
+- To manage restaurant menu items efficiently
+- To allow customers to place orders easily
+- To implement dynamic billing based on order types
+- To demonstrate OOP concepts in real-world scenarios
+
+
+ ⚙️ Features
+👨‍💼 Admin Module
+- Add new food items
+- Update existing items
+- Delete menu items
+- View all menu items
+
+ 🧑‍🍳 Customer Module
+- View menu
+- Select food items
+- Enter quantity
+- Place multiple orders
+
+💰 Billing System
+- Dine-in → Service charge applied
+- Takeaway → Packaging charge added
+- Delivery → Distance-based charge (₹10/km)
+
+ 🧠 OOP Concepts Used
+- Encapsulation → Data hiding using private variables
+- Inheritance → Billing classes inherit from parent class
+- Polymorphism → Different billing logic using method overriding
+- Abstraction → Abstract class BillingService
+
+ 🛠️ Technologies Used
+- Java (Core Java)
+- Scanner Class (Input Handling)
+- OOP Concepts
 
